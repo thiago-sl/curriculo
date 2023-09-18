@@ -100,3 +100,8 @@ margin: 0 auto;
   
 
 }
+@media screen and (max-width ){
+    main {
+        width: 100%;
+    }
+}
