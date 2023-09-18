@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.barra-lateral{
+    width: 500px;
+    
+    background: rgb(177,241,194);
+    background: linear-gradient(90deg, rgba(177,241,194,1) 0%, rgba(35,219,185,1) 29%, rgba(0,214,183,1) 36%, rgba(0,17,247,1) 100%);
+   
+
+  
+}
+.perfil img{ 
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 20px;
+    margin-left: 50px;
+   
+    
+}
+.barra-lateral h3{
+margin-left: 20px;
+}
+.barra-lateral h2{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: 900;
+}
+.redes-sociais  {
+    
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+    justify-content:center ;
+   
+
+
+  
+}
+.redes-sociais img{
+    border: #000 solid 1px;
+    border-radius: 100%;
+}
+button{
+    width: 100px;
+    height:30px ;
+    display: flex;
+    margin: 0 auto;
+    background: rgb(177,241,194);
+    background: linear-gradient(90deg, rgba(177,241,194,1) 0%, rgba(35,219,185,1) 29%, rgba(0,214,183,1) 36%, rgba(0,17,247,1) 100%);
+   
+    
+}
+button p{
+margin: 0 auto;
+padding: 5px;
+color: black;
+font-size: 16px;
+font-weight: 500;
+}
+    
+
+.copetencias{
+    width: 100%;
+  
+    margin-left: 20px;
+    padding: 20px;
+
+    
+
+}
+.copetencias h1{
+    padding: 10px;
+    font-weight: 900;
+    font-size: 40px;
+}
+.copetencias p{
+    font-weight: 600;
+    font-size: 21px;
+    padding: 1px;
+}
+.copetencias h2{
+    font-weight: 900;
+    font-size: 30px;
+}
+hr{
+    height: 1px;
+    background-color: #d5f4e6;
+}
+main{
+width: 80%;
+height: auto;
+display: flex;
+margin: 0 auto;
+
+  
+
+}
